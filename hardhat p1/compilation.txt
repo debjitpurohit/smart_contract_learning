@@ -1,0 +1,5 @@
+1) run npx hardhat compile 
+2) then go to artifacts 
+3) then  contracts ---> .json file
+...........there is abi that connect with frontend using ether.js....................
+/////////////and byte code deploy in the actual blockchain (ethereum virtual machine)

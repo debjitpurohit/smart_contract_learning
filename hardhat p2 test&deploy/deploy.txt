@@ -1,0 +1,10 @@
+****************local***********
+npx hardhat run scripts/deploy.js
+
+
+
+
+
+****************sepolia network***********************
+npx hardhat run scripts/deploy.js --network sepolia
+///and u can check it in sepolia etherscan
